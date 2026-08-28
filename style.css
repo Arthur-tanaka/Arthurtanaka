@@ -17,7 +17,8 @@ body {
 
 /* HEADER */
 .header-container {
-    display: grid;
+    display: flex;
+    justify-content: center;
     grid-template-columns: 1fr auto 1fr;
     align-items: center;
     padding: 25px 6%;
