@@ -131,7 +131,7 @@ body {
 
 /* PROJETOS */
 .projetos {
-    padding: 80px 6%;
+    padding: 40px 6%;
     text-align: center;
 }
 
@@ -191,12 +191,12 @@ body {
 
 /* SOBRE */
 .sobre {
-    padding: 80px 6%;
+    padding: 20px 6%;
     text-align: center;
 }
 
 .sobre h2 {
-    font-size: 36px;
+    font-size: 40px;
     margin-bottom: 20px;
 }
 
@@ -224,7 +224,7 @@ body {
 
 /* REDES */
 .redes {
-    padding: 80px 6%;
+    padding: 30px 6%;
     text-align: center;
 }
 
